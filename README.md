@@ -66,13 +66,10 @@ Generate six different visualizations:
 ## 📂 Project Structure
 
 ```text
-Stock-Market-Data-Analysis/
-│
-├── main.ipynb
-├── data/
-│   └── stock_data.csv
+
 ├── README.md
-└── requirements.txt
+├── data.csv
+└── main.ipynb
 ```
 
 ## 📋 Dataset Columns
